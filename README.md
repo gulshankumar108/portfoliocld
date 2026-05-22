@@ -84,17 +84,15 @@ A Python-based application that converts text into speech using text-to-speech t
 
 ---
 
-## Contact
+## Connect With Me
 
-Email: gulshankr001bkp@gmail.com
+- 📧 Email: [gulshankr001bkp@gmail.com](mailto:gulshankr001bkp@gmail.com)
+- 💻 GitHub: [github.com/gulshankumar108](https://github.com/gulshankumar108)
+- 💼 LinkedIn: [linkedin.com/in/gulshan-kumar-432a0a303](https://www.linkedin.com/in/gulshan-kumar-432a0a303/)
+- 📱 Phone: +91 7909087359
+- 📍 Location: Patna, Bihar, India
 
-LinkedIn:
-www.linkedin.com/in/gulshan-kumar-432a0a303
-
-GitHub:
-github.com/gulshankumar108
-
----
+I am always open to internship opportunities, collaborations, and innovative projects in AI/ML and Software Development.
 
 ## Portfolio Purpose
 
